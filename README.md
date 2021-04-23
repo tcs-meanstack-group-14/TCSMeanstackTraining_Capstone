@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
-# Task Distribution
+## Task Distribution
 
 Participant 1 = Austin Chau
 Participant 2 = Shashank
