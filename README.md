@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Task Distribution
 
 Participant 1 = Austin Chau
+
 Participant 2 = Shashank
+
 Participant 3 = Alexander Soe
 
 ## Development server
